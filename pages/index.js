@@ -172,6 +172,17 @@ problems, short-term and long-term?`}
           </p>
         </div>
       </Accordion>
+      <p>
+        You can find the{" "}
+        <a
+          href="https://github.com/dipankarmaikap/vercel-familiarisation-exercise"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Project source code
+        </a>{" "}
+        here.
+      </p>
     </div>
   );
 }

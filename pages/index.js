@@ -14,7 +14,7 @@ export default function HomePage() {
               tech articles, I already do this on my personal site.)
             </li>
             <li>
-              Help train and onboard new support teammates (I like to onboarding
+              Help train and onboard new support teammates (I like onboarding
               new teammate, It let me know a lot about them and its a good
               bonding chance.)
             </li>
@@ -26,13 +26,13 @@ export default function HomePage() {
             </li>
             <li>
               Respond to queries on Twitter, Reddit, Hacker News and other 3rd
-              party sites. (This is a good way to get to know the community, and
-              I already kinda do this in stack overflow)
+              party sites. (This is a good way to get to know the community and
+              expand knowladge, and I already kinda do this in stack overflow)
             </li>
             <li>
               Work with people to figure out if Vercel is suitable for their use
-              case (I already helped two people to shitch to Vercel, and I love
-              the developer experience of Vercel.)
+              case (I already helped two people to switch to Vercel, and as a
+              developer I love the developer experience of Vercel.)
             </li>
           </ul>
           <p style={{ fontWeight: "bold" }}>5 least favourite tasks</p>
@@ -106,7 +106,7 @@ respond?`}
       >
         <div>
           <p>
-            Hello there, Please check out this link{" "}
+            Please check out this link{" "}
             <a
               href="https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#in-application-redirects"
               target="_blank"
@@ -156,9 +156,9 @@ problems, short-term and long-term?`}
         <div>
           <p>
             I think one of common question would be setting up a custom domain
-            and poing mx record to some other service like gsuite. In short term
-            I would point to all the docs for this but if this a very common
-            problem I would also do few videos and put them in youtube.
+            and pointing mx record to some other service like gsuite. In short
+            term I would point to all the docs for this but if this a very
+            common problem I would also do few videos and put them in youtube.
           </p>
         </div>
       </Accordion>
